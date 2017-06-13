@@ -60,4 +60,6 @@ yourImageView.layer.masksToBounds = YES;
 
 18. https://stackoverflow.com/questions/11502539/mask-a-view-in-objective-c - imp4
 
+19. https://gist.github.com/dimitribouniol/938107 - imp5
+
 
