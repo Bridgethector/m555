@@ -54,4 +54,6 @@ yourImageView.layer.masksToBounds = YES;
 15. https://stackoverflow.com/questions/419710/how-do-i-pan-the-image-inside-a-uiimageview - image moving with scrolling imp
 
 
-16.
+16. https://github.com/nicklockwood/LayerSprites - check
+
+17. https://github.com/nicklockwood/LayerSprites  - check
