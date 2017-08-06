@@ -1,0 +1,28 @@
+1. https://stackoverflow.com/questions/9768205/adding-uiimageview-dynamically - array1
+
+2. https://stackoverflow.com/questions/43921686/ios-mixing-two-audio-files  - multiple songs
+
+3. https://stackoverflow.com/questions/4072986/avmutablecomposition-are-2-parallel-audio-tracks-possible - multiple tracks
+
+4. https://stackoverflow.com/questions/26515296/how-to-merge-multiple-videos-and-audio-using-avasset - array list - imp
+
+5.  https://developer.apple.com/documentation/avfoundation/avmutablecompositiontrack/1388629-inserttimeranges?language=objc  - insert time ranges
+- imp
+6. http://iphonedevsdk.com/forum/iphone-sdk-development/66085-avmutablecompositiontrack-combining-2-sound-tracks-issue.html 
+- reference for audio
+7. http://howtoprogram.eu/question/ios-iphone-inserttimerange-oftrack-attime-error-class-avmutablecompositiontrack-fails-on-iphone,23907 
+- reference
+8.  http://blog.scottlogic.com/2014/11/10/Video-Stitching-With-AVFoundation.html - video stitching iterate 
+
+9. https://developer.apple.com/documentation/avfoundation/avmutableaudiomixinputparameters/1386056-setvolumerampfromstartvolume 
+- volume setting - imp
+10 . check insta shot app for volume reducing purpose
+
+11. https://stackoverflow.com/questions/16217715/avmutableaudiomixinputparameters-setvolume-attime-not-working-only-with-kcmtimez 
+- imp audio volume set
+
+12. https://stackoverflow.com/questions/33134019/avmutableaudiomix-volume-of-multiple-tracks-not-working-correctly 
+- multiple assets - imp
+13. https://gist.github.com/maximveksler/9220316  - reference audio parameters
+
+14 .http://www.itstrike.cn/Question/09147803-823f-40d8-ad27-17bfa7c098dd.html  - audio fade out
